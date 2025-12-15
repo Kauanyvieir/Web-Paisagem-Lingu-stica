@@ -341,4 +341,9 @@ summary::before {
         width: 90%;
         margin-left: 5%;
     }
+
+    .botaoprincipal {
+        padding: 1.5vw 1.5vw;
+        font-size: 1.7vw;
+    }
 }
